@@ -1,0 +1,9 @@
+[2025-04-10 11:55:21] [MFA] MFA CODE for user johndoe: 318698
+[2025-04-10 11:55:21] [MFA] =============================================
+[2025-04-10 11:55:23] [ERROR] Failed to send MFA code: Failed to send Telegram message: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[2025-04-11 18:56:39] [MFA] MFA CODE for user johndoe: 403818
+[2025-04-11 18:56:39] [MFA] =============================================
+[2025-04-11 18:57:02] [ERROR] Failed to send MFA code: Failed to send Telegram message: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+[2025-04-11 18:59:35] [MFA] MFA CODE for user johndoe: 281543
+[2025-04-11 18:59:35] [MFA] =============================================
+[2025-04-11 18:59:58] [ERROR] Failed to send MFA code: Failed to send Telegram message: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
